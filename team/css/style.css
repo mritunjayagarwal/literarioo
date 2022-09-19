@@ -4,7 +4,8 @@
 
 .our-team .pic{
     position: relative;
-    height: 250px;
+    width: 100%;
+    height: auto;
     border-radius: 100%;
     overflow:hidden;
 }

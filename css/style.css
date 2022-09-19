@@ -1472,6 +1472,10 @@ img.mfp-img {
     text-align: center
 }
 
+.team-row-center{
+    display: flex; justify-content: center;
+}
+
 .team-profile,
 .team-lead,
 .team-name,
@@ -2014,6 +2018,10 @@ body:not(.modal-open) {
     .section .section {
         padding-top: 0;
         padding-bottom: 0
+    }
+
+    .team-row-center{
+        display: block;
     }
 
     .text-center-sm {
